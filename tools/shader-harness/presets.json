@@ -1,0 +1,352 @@
+{
+ "railway": {
+  "defaults": {
+   "strength": 0.9,
+   "saturation": 0.5,
+   "contrast": 0.5,
+   "brightness": 0.55,
+   "shadow": 0.5,
+   "highlight": 0.5,
+   "levels": 0.45,
+   "edge": 0.45,
+   "thickness": 0.35,
+   "smoothing": 0.55,
+   "grain": 0.45,
+   "warmth": 0.5,
+   "vignette": 0.35
+  },
+  "presets": [
+   {
+    "name": "Classic",
+    "palette": 0,
+    "v": {}
+   },
+   {
+    "name": "Coast",
+    "palette": 1,
+    "v": {
+     "warmth": 0.45,
+     "saturation": 0.55,
+     "levels": 0.5,
+     "grain": 0.4,
+     "edge": 0.4
+    }
+   },
+   {
+    "name": "Countryside",
+    "palette": 2,
+    "v": {
+     "smoothing": 0.6,
+     "warmth": 0.55,
+     "levels": 0.5
+    }
+   },
+   {
+    "name": "Industrial",
+    "palette": 3,
+    "v": {
+     "contrast": 0.6,
+     "shadow": 0.65,
+     "edge": 0.55,
+     "grain": 0.55,
+     "saturation": 0.4,
+     "vignette": 0.5
+    }
+   },
+   {
+    "name": "Sunset",
+    "palette": 0,
+    "v": {
+     "warmth": 0.85,
+     "saturation": 0.6,
+     "highlight": 0.6,
+     "contrast": 0.55,
+     "vignette": 0.45,
+     "grain": 0.5
+    }
+   }
+  ]
+ },
+ "cel": {
+  "defaults": {
+   "strength": 0.95,
+   "saturation": 0.6,
+   "contrast": 0.55,
+   "brightness": 0.5,
+   "shadow": 0.5,
+   "highlight": 0.4,
+   "levels": 0.5,
+   "edge": 0.7,
+   "thickness": 0.4,
+   "smoothing": 0.4,
+   "grain": 0.0,
+   "warmth": 0.5,
+   "vignette": 0.15
+  },
+  "presets": [
+   {
+    "name": "Soft",
+    "palette": 0,
+    "v": {
+     "levels": 0.7,
+     "edge": 0.35,
+     "thickness": 0.3,
+     "smoothing": 0.6,
+     "saturation": 0.5,
+     "strength": 0.85
+    }
+   },
+   {
+    "name": "Anime-ish",
+    "palette": 0,
+    "v": {
+     "levels": 0.4,
+     "edge": 0.6,
+     "thickness": 0.3,
+     "saturation": 0.7,
+     "smoothing": 0.5,
+     "highlight": 0.6,
+     "shadow": 0.35,
+     "warmth": 0.55
+    }
+   },
+   {
+    "name": "Bold",
+    "palette": 0,
+    "v": {
+     "levels": 0.25,
+     "edge": 0.9,
+     "thickness": 0.6,
+     "saturation": 0.7,
+     "contrast": 0.6,
+     "smoothing": 0.3
+    }
+   },
+   {
+    "name": "Comic",
+    "palette": 0,
+    "v": {
+     "levels": 0.15,
+     "edge": 1.0,
+     "thickness": 0.55,
+     "saturation": 0.7,
+     "contrast": 0.62,
+     "smoothing": 0.25,
+     "grain": 0.6
+    }
+   }
+  ]
+ },
+ "graphic": {
+  "defaults": {
+   "strength": 0.95,
+   "saturation": 0.6,
+   "contrast": 0.58,
+   "brightness": 0.55,
+   "shadow": 0.5,
+   "highlight": 0.6,
+   "levels": 0.3,
+   "edge": 0.7,
+   "thickness": 0.35,
+   "smoothing": 0.75,
+   "grain": 0.2,
+   "warmth": 0.5,
+   "vignette": 0.3
+  },
+  "presets": [
+   {
+    "name": "Natural",
+    "palette": 0,
+    "v": {
+     "strength": 0.75,
+     "saturation": 0.5,
+     "contrast": 0.52,
+     "shadow": 0.4,
+     "edge": 0.45,
+     "vignette": 0.2,
+     "smoothing": 0.6,
+     "levels": 0.45
+    }
+   },
+   {
+    "name": "Vibrant",
+    "palette": 0,
+    "v": {
+     "saturation": 0.78,
+     "contrast": 0.6,
+     "edge": 0.6,
+     "warmth": 0.52
+    }
+   },
+   {
+    "name": "Dramatic",
+    "palette": 0,
+    "v": {
+     "contrast": 0.68,
+     "shadow": 0.65,
+     "highlight": 0.75,
+     "edge": 0.8,
+     "vignette": 0.5,
+     "saturation": 0.62,
+     "levels": 0.25
+    }
+   },
+   {
+    "name": "Night",
+    "palette": 0,
+    "v": {
+     "brightness": 0.45,
+     "contrast": 0.66,
+     "shadow": 0.6,
+     "warmth": 0.28,
+     "saturation": 0.68,
+     "highlight": 0.8,
+     "vignette": 0.55,
+     "edge": 0.7,
+     "levels": 0.3
+    }
+   }
+  ]
+ },
+ "idleon": {
+  "defaults": {
+   "strength": 0.9,
+   "saturation": 0.72,
+   "contrast": 0.55,
+   "brightness": 0.52,
+   "shadow": 0.5,
+   "highlight": 0.6,
+   "levels": 0.45,
+   "edge": 0.65,
+   "thickness": 0.35,
+   "smoothing": 0.5,
+   "grain": 0.0,
+   "warmth": 0.5,
+   "vignette": 0.15,
+   "pixel": 0.0,
+   "glow": 0.45,
+   "chunk": 0.45,
+   "grade": 0.5
+  },
+  "presets": [
+   {
+    "name": "Smooth",
+    "palette": 0,
+    "v": {}
+   },
+   {
+    "name": "Fantasy",
+    "palette": 0,
+    "v": {
+     "grade": 1.0,
+     "saturation": 0.78,
+     "glow": 0.7,
+     "warmth": 0.42,
+     "shadow": 0.55
+    }
+   },
+   {
+    "name": "Vivid",
+    "palette": 0,
+    "v": {
+     "saturation": 0.98,
+     "contrast": 0.65,
+     "glow": 0.25,
+     "grade": 0.15,
+     "edge": 0.6
+    }
+   },
+   {
+    "name": "Pixel",
+    "palette": 0,
+    "v": {
+     "pixel": 0.5,
+     "chunk": 0.55,
+     "levels": 0.35,
+     "saturation": 0.8,
+     "edge": 0.6,
+     "smoothing": 0.35
+    }
+   },
+   {
+    "name": "Dungeon",
+    "palette": 0,
+    "v": {
+     "brightness": 0.3,
+     "contrast": 0.7,
+     "grade": 1.0,
+     "warmth": 0.25,
+     "saturation": 0.45,
+     "vignette": 0.7,
+     "glow": 0.15,
+     "shadow": 0.8,
+     "levels": 0.4
+    }
+   },
+   {
+    "name": "Golden",
+    "palette": 0,
+    "v": {
+     "warmth": 0.9,
+     "grade": 0.6,
+     "glow": 0.9,
+     "highlight": 0.8,
+     "brightness": 0.58,
+     "saturation": 0.85
+    }
+   }
+  ]
+ },
+ "palettes": [
+  [
+   "EDDFB3",
+   "CC9933",
+   "E6C761",
+   "A33D2B",
+   "265740",
+   "297380",
+   "456E99",
+   "2B1F1A"
+  ],
+  [
+   "EFE2BE",
+   "33999F",
+   "73ADD1",
+   "1F3866",
+   "E07347",
+   "F2CC66",
+   "407359",
+   "2A2E33"
+  ],
+  [
+   "E9E3BF",
+   "6B9447",
+   "244D2E",
+   "C79E40",
+   "8CB3C7",
+   "994733",
+   "614429",
+   "241D16"
+  ],
+  [
+   "262628",
+   "617385",
+   "9E9E99",
+   "8C4529",
+   "BF9438",
+   "E0D1AD",
+   "2E473D",
+   "853A2B"
+  ],
+  [
+   "121A38",
+   "213361",
+   "1F616B",
+   "F2C759",
+   "D97333",
+   "E0D1A6",
+   "662633",
+   "0F0D12"
+  ]
+ ]
+}
